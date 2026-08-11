@@ -1,0 +1,14 @@
+__pycache__/
+JREs/
+libs/
+natives/
+logs/
+.idea/
+.vscode/
+.exe/
+.minecraft/
+/error_log.txt
+/test_log.txt
+*.pyc
+*.pyo
+*.pyd
