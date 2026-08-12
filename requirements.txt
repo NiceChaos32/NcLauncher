@@ -1,2 +1,5 @@
 nuitka
 colorama
+tkinter
+customtkinter
+textual
